@@ -1,5 +1,13 @@
 # CST8915 Lab 3 - Deploying the Algonquin Pet Store on Azure
 
+## Student Information
+
+- **Name:** Morgan Wahome Githae
+- **Course:** CST8915 - Full-stack Cloud-native Development
+- **Lab:** Lab 2
+
+---
+
 ## Overview
 
 This lab demonstrates the deployment of the Algonquin Pet Store application using Microsoft Azure services.
@@ -306,10 +314,10 @@ order_queue
 RabbitMQ showed:
 
 ```text
-Queues: 1
-Ready: 2
+Queues: 7
+Ready: 7
 Unacked: 0
-Total: 2
+Total: 7
 ```
 
 One message had previously been added during REST API testing, while the second message was generated through the Store Front.
@@ -421,7 +429,7 @@ The demonstration video shows:
 
 ### YouTube Demo
 
-[Watch Demo Video]()
+[Watch Demo Video](https://youtu.be/kzQrQ0aIg80)
 
 ---
 
