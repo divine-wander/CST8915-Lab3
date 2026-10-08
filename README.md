@@ -4,7 +4,7 @@
 
 - **Name:** Morgan Wahome Githae
 - **Course:** CST8915 - Full-stack Cloud-native Development
-- **Lab:** Lab 2
+- **Lab:** Lab 3
 
 ---
 
